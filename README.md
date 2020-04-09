@@ -8,4 +8,4 @@ Implementacion de algoritmo paralelo mergeSort con julia en servidor.
 
 
 ## Resultados SpeedUp
-![speedup](/speedup.png)
+![Speed up](speedup.PNG)
